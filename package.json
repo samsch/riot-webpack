@@ -11,12 +11,13 @@
   "author": "Samuel Scheiderich",
   "license": "0BSD",
   "dependencies": {
-    "riot": "^2.3.17"
+    "riot": "^2.6.3"
   },
   "devDependencies": {
-    "babel-loader": "^6.2.3",
-    "babel-preset-es2015": "^6.5.0",
-    "riotjs-loader": "^2.0.0",
-    "webpack": "^1.12.14"
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-latest": "^6.16.0",
+    "riotjs-loader": "^3.0.0",
+    "webpack": "^1.13.2"
   }
 }
